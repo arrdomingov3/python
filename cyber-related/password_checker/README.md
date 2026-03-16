@@ -21,3 +21,7 @@ It then classifies the password as Weak / Moderate / Strong / Very Strong.
 # How to run
 
 Open the terminal and type `python main.py`.
+
+# Test Results
+
+![Password checker result](./password_screenshot.jpg)
